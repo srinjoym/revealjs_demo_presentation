@@ -59,9 +59,11 @@ https:<span></span>//www.youtube.com/embed/W_gxLKSsSIE?<span style="color:#1b91f
 
 
 
-### Emulating on Slides ###
+### Demo and Emulating on Slides ###
 
-**Thank You**
-<iframe height="500px" style="width:100%"  data-src="https://www.youtube.com/embed/fRj34o4hN4I?autoplay=1&mute=1&rel=0"></iframe>
-<figcaption style="font-size: 15px;">Retrieved from https://youtu.be/fRj34o4hN4I</figcaption>
+
+
+
+### Thank You ###
+<img src="https://media.giphy.com/media/94iS62lx8CRQA/giphy.gif"/>
 
